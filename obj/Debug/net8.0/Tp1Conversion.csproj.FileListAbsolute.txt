@@ -1,0 +1,14 @@
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/bin/Debug/net8.0/Tp1Conversion
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/bin/Debug/net8.0/Tp1Conversion.deps.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/bin/Debug/net8.0/Tp1Conversion.runtimeconfig.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/bin/Debug/net8.0/Tp1Conversion.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/bin/Debug/net8.0/Tp1Conversion.pdb
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.AssemblyInfoInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.AssemblyInfo.cs
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.csproj.CoreCompileInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/refint/Tp1Conversion.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.pdb
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/Tp1Conversion.genruntimeconfig.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/Tp1Conversion/obj/Debug/net8.0/ref/Tp1Conversion.dll
