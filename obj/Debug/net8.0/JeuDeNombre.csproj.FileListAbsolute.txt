@@ -1,0 +1,14 @@
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/bin/Debug/net8.0/JeuDeNombre
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/bin/Debug/net8.0/JeuDeNombre.deps.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/bin/Debug/net8.0/JeuDeNombre.runtimeconfig.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/bin/Debug/net8.0/JeuDeNombre.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/bin/Debug/net8.0/JeuDeNombre.pdb
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.GeneratedMSBuildEditorConfig.editorconfig
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.AssemblyInfoInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.AssemblyInfo.cs
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.csproj.CoreCompileInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/refint/JeuDeNombre.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.pdb
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/JeuDeNombre.genruntimeconfig.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/JeuDeNombre/obj/Debug/net8.0/ref/JeuDeNombre.dll
