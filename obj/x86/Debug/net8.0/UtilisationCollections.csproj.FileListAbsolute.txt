@@ -1,0 +1,15 @@
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UtilisationCollections.GeneratedMSBuildEditorConfig.editorconfig
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UtilisationCollections.AssemblyInfoInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UtilisationCollections.AssemblyInfo.cs
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UtilisationCollections.csproj.CoreCompileInputs.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UtilisationCollections.sourcelink.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/bin/x86/Debug/net8.0/UsingCollectionsDemo
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/bin/x86/Debug/net8.0/UsingCollectionsDemo.deps.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/bin/x86/Debug/net8.0/UsingCollectionsDemo.runtimeconfig.json
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/bin/x86/Debug/net8.0/UsingCollectionsDemo.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/bin/x86/Debug/net8.0/UsingCollectionsDemo.pdb
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UsingCollectionsDemo.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/refint/UsingCollectionsDemo.dll
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UsingCollectionsDemo.pdb
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/UtilisationCollections.genruntimeconfig.cache
+/home/mouhamed/Documents/M2G/_.NET/TPs/UtilisationCollections/UsingCollectionsDemo/obj/x86/Debug/net8.0/ref/UsingCollectionsDemo.dll
